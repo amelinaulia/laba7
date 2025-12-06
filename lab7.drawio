@@ -1,0 +1,119 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
+  <diagram name="Страница — 1" id="1DWqbeJ3C9WirO4Ks1p5">
+    <mxGraphModel dx="1303" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qRT1wl0q1C-R6OyLXvoA-1" target="qRT1wl0q1C-R6OyLXvoA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-1" value="НАЧАЛО" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qRT1wl0q1C-R6OyLXvoA-2" target="qRT1wl0q1C-R6OyLXvoA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-2" value="ВВОД ПЕРЕМЕННЫХ:&lt;div&gt;month, year&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qRT1wl0q1C-R6OyLXvoA-3" target="qRT1wl0q1C-R6OyLXvoA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-3" value="ВЫВОД: &quot;Определение количества дней в месяце&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qRT1wl0q1C-R6OyLXvoA-4" target="qRT1wl0q1C-R6OyLXvoA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-4" value="ВЫВОД: &quot;Год високосный? (1 - да, 0 - нет)&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qRT1wl0q1C-R6OyLXvoA-5" target="qRT1wl0q1C-R6OyLXvoA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-5" value="ВВОД: year" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qRT1wl0q1C-R6OyLXvoA-6" target="qRT1wl0q1C-R6OyLXvoA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-6" value="ВЫВОД: &quot;Введите номер месяца (1-12):&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qRT1wl0q1C-R6OyLXvoA-7" target="qRT1wl0q1C-R6OyLXvoA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-7" value="ВВОД month" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qRT1wl0q1C-R6OyLXvoA-8" target="qRT1wl0q1C-R6OyLXvoA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qRT1wl0q1C-R6OyLXvoA-8" target="qRT1wl0q1C-R6OyLXvoA-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-8" value="month ==2?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-16" value="&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap-mode: wrap; word-break: break-all; padding: 16px; text-align: start; margin: 0px !important;&quot;&gt;&lt;span class=&quot;token text string&quot; style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;year == 1 ?&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="770" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qRT1wl0q1C-R6OyLXvoA-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qRT1wl0q1C-R6OyLXvoA-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-17" value="&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap-mode: wrap; word-break: break-all; padding: 16px; margin: 0px !important;&quot;&gt;&lt;span class=&quot;token text string&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;month == 4 ИЛИ&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap-mode: wrap; word-break: break-all; padding: 16px; margin: 0px !important;&quot;&gt;&lt;font&gt;month == 6 ИЛИ&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap-mode: wrap; word-break: break-all; padding: 16px; margin: 0px !important;&quot;&gt;&lt;font&gt;month == 9 ИЛИ&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap-mode: wrap; word-break: break-all; padding: 16px; margin: 0px !important;&quot;&gt;&lt;font&gt;month == 11?&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;align=center;perimeterSpacing=2;strokeWidth=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="500" y="760" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qRT1wl0q1C-R6OyLXvoA-22" target="qRT1wl0q1C-R6OyLXvoA-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-22" value="ВЫВОД: &quot;Дней в месяце:28 &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qRT1wl0q1C-R6OyLXvoA-23" target="qRT1wl0q1C-R6OyLXvoA-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-23" value="ВЫВОД: &quot;Дней в месяце:29 &quot;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qRT1wl0q1C-R6OyLXvoA-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="1130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-25" value="ВЫВОД: &quot;Дней в месяце:31 &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qRT1wl0q1C-R6OyLXvoA-27" target="qRT1wl0q1C-R6OyLXvoA-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-27" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ВЫВОД: &quot;Дней в месяце: 30&quot;&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.608;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qRT1wl0q1C-R6OyLXvoA-16" target="qRT1wl0q1C-R6OyLXvoA-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.425;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qRT1wl0q1C-R6OyLXvoA-16" target="qRT1wl0q1C-R6OyLXvoA-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRT1wl0q1C-R6OyLXvoA-32" value="КОНЕЦ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1090" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
