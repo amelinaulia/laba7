@@ -22,33 +22,33 @@ printf("Дней в месяце: 31\n");
 <img width="200" src="https://github.com/amelinaulia/lab6/blob/master/Диаграмма%20без%20названия.drawio.png">
 
 ## 2. Реализация программы:
-   #define _CRT_SECURE_NO_WARNINGS
-   #include <stdio.h>
-   #include <locale.h>
-   #include <math.h>
-   int main() 
-   {
-    setlocale(LC_CTYPE, "RUS");
-    int month, year;
-    printf("Определение количества дней в месяце\n");
-
-    printf("Год високосный? (1 - да, 0 - нет): ");
-    scanf("%d", &year);
-
-    printf("Введите номер месяца (1-12): ");
-    scanf("%d", &month);
-
-    if (month == 2) {
-        printf("Дней в месяце: %d\n", year ? 29 : 28);
-    }
-    else if (month == 4 || month == 6 || month == 9 || month == 11) {
-        printf("Дней в месяце: 30\n");
-    }
-    else {
-        printf("Дней в месяце: 31\n");
-    }
-    return 0;
-}
+      #define _CRT_SECURE_NO_WARNINGS
+      #include <stdio.h>
+      #include <locale.h>
+      #include <math.h>
+      int main() 
+      {
+       setlocale(LC_CTYPE, "RUS");
+       int month, year;
+       printf("Определение количества дней в месяце\n");
+   
+       printf("Год високосный? (1 - да, 0 - нет): ");
+       scanf("%d", &year);
+   
+       printf("Введите номер месяца (1-12): ");
+       scanf("%d", &month);
+   
+       if (month == 2) {
+           printf("Дней в месяце: %d\n", year ? 29 : 28);
+       }
+       else if (month == 4 || month == 6 || month == 9 || month == 11) {
+           printf("Дней в месяце: 30\n");
+       }
+       else {
+           printf("Дней в месяце: 31\n");
+       }
+       return 0;
+      }
 ## 3. Результат работы программы
 ![Результат работы программы](image.png)
 ## 4. Информация о разработчике
