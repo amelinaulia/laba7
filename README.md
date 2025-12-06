@@ -19,7 +19,7 @@ printf("Дней в месяце: 31\n");
 4. Конец
 ### Блок-схема
 
-<img width="200" src="https://github.com/amelinaulia/lab6/blob/master/Диаграмма%20без%20названия.drawio.png">
+![Блок схема алгоритма](lab7.drawio.png)
 
 ## 2. Реализация программы:
       #define _CRT_SECURE_NO_WARNINGS
